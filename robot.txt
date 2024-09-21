@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ayamjago388.github.io/sv/sitemap.xml
